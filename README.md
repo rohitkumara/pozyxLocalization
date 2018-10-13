@@ -16,3 +16,13 @@ Build the code using `mkdir build && cd build/ && cmake .. && make; cd ..`
 Run the built code using `cd bin/ && sudo ./demo; cd ..`
 
 _NOTE:_ `sudo` is required if the user is not added to the dialout group (i.e., the group with serial port permissions).
+
+## Calibrating the pozyx device
+Please refer to the documentation on the pozyx website on how to calibrate the pozyx device and anchors at https://www.pozyx.io/Documentation
+
+## Statistics on device position
+
+<img width="430" height="300" src="xy_hist.png"> <img width="430" height="300" src="hist_x_y.png">
+
+The above figures show that when stationary, the position noise of the device follows as gaussian distribution.
+
