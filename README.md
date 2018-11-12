@@ -24,7 +24,7 @@ Please refer to the documentation on the pozyx website on how to calibrate the p
 
 <img width="430" height="300" src="xy_hist.png"> <img width="430" height="300" src="hist_x_y.png">
 
-The above figures show that when stationary, the position noise of the device follows as gaussian distribution.
+The above figures show that when stationary, the position noise of the device follows a gaussian distribution.
 
 Detailed documentation can be found in [Pozyx Documentation file](https://github.com/surgeonofdeath/pozyxLocalization/blob/master/Pozyx%20Documentation.pdf).
 
